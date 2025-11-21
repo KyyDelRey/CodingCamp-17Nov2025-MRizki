@@ -1,7 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap");
-
+@font-face {
+  font-family: "SansFransisco";
+  src: url("assets/font/san_francisco-webfont.woff2") format("woff2"); /* Pastikan path-nya bener */
+  font-weight: normal;
+  font-style: normal;
+}
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "SansFransisco", sans-serif;
 }
 
 ::-webkit-scrollbar {
