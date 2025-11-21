@@ -1,6 +1,6 @@
 @font-face {
   font-family: "SansFransisco";
-  src: url("assets/font/san_francisco-webfont.woff2") format("woff2"); /* Pastikan path-nya bener */
+  src: url("assets/font/san_francisco-webfont.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
